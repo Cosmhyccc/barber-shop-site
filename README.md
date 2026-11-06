@@ -17,7 +17,7 @@ npm run check
 npm run build
 ```
 
-`dist/` is a standalone static site. All URLs are relative, so it also works under a GitHub Pages repository path. GitHub Pages is intentionally not enabled until the local design is approved.
+`dist/` is a standalone static site. All URLs are relative, so it also works under a GitHub Pages repository path. `.github/workflows/deploy-pages.yml` builds and publishes `dist/` on pushes to `main` or manual runs once Pages is enabled.
 
 ## Content
 
@@ -25,7 +25,7 @@ npm run build
 - Full source provenance: `research/source-content.json`.
 - $40 haircut / $50 haircut + beard are **walk-in prices**. Appointment pricing stays in Squire.
 - No invented barber bios, reviews, or parking directions.
-- Barber pole, scissors, and badge are original SVG illustrations. QQ bubble logo was created with built-in imagegen; prompt in `research/logo-prompt.md`. Full-resolution PNG retained; the site serves a lightweight transparent WebP.
+- Barber pole, scissors, and badge are original SVG illustrations. QQ bubble logo was created with built-in imagegen; prompt in `research/logo-prompt.md`. Full-resolution PNG retained; the site serves a lightweight matte transparent WebP. Matte edit prompt: `research/logo-matte-prompt.md`.
 - Self-hosted DM Sans and Bricolage Grotesque. OFL licenses in `public/fonts/`.
 
 ## Interaction
