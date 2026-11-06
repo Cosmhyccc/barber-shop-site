@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="256" height="320" viewBox="0 0 256 320" fill="none" role="img" aria-labelledby="title">
+  <title id="title">Red, cream, and cobalt barber pole sticker</title>
+  <defs>
+    <clipPath id="pole-window"><path d="M90 93H166V238H90z"/></clipPath>
+  </defs>
+  <g transform="rotate(10 128 160)">
+    <path d="M112 26H144L153 44C168 47 178 60 178 74V89L174 98V233L181 245V260C181 277 165 291 147 291H109C91 291 75 277 75 260V245L82 233V98L78 89V74C78 60 88 47 103 44L112 26Z" fill="#f5f1e8" stroke="#f5f1e8" stroke-width="16" stroke-linejoin="round"/>
+    <path d="M114 28H142L148 47H108L114 28Z" fill="#20211f" stroke="#20211f" stroke-width="4" stroke-linejoin="round"/>
+    <path d="M128 42C103 42 82 55 82 77V87H174V77C174 55 153 42 128 42Z" fill="#b5c1c6" stroke="#20211f" stroke-width="5"/>
+    <path d="M94 71C99 56 113 50 127 50" stroke="#f5f1e8" stroke-width="8" stroke-linecap="round"/>
+    <path d="M85 87H171V246H85V87Z" fill="#f5f1e8" stroke="#20211f" stroke-width="5"/>
+    <g clip-path="url(#pole-window)">
+      <path d="M71 116L185 50V78L71 144V116ZM71 200L185 134V162L71 228V200ZM71 284L185 218V246L71 312V284Z" fill="#df4938"/>
+      <path d="M71 158L185 92V120L71 186V158ZM71 242L185 176V204L71 270V242Z" fill="#344be7"/>
+      <path d="M90 93H101V238H90V93Z" fill="#fff" opacity=".34"/>
+      <path d="M153 93H166V238H153V93Z" fill="#20211f" opacity=".12"/>
+    </g>
+    <path d="M81 83H175V97H81V83Z" fill="#20211f" stroke="#20211f" stroke-width="4" stroke-linejoin="round"/>
+    <path d="M83 244H173V258C173 272 161 283 147 283H109C95 283 83 272 83 258V244Z" fill="#b5c1c6" stroke="#20211f" stroke-width="5"/>
+    <path d="M94 260C96 268 101 272 112 273" stroke="#f5f1e8" stroke-width="7" stroke-linecap="round"/>
+    <path d="M81 237H175V250H81V237Z" fill="#20211f" stroke="#20211f" stroke-width="4" stroke-linejoin="round"/>
+    <path d="M148 260H163" stroke="#20211f" stroke-width="3" stroke-linecap="round"/>
+  </g>
+</svg>

@@ -1,0 +1,7 @@
+node_modules/
+dist/
+.DS_Store
+research/*.html
+research/originals/
+public/images/originals/
+research/qa/

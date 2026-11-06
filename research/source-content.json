@@ -1,0 +1,260 @@
+{
+  "source": "https://www.qqbarbershoplamar.com",
+  "retrieved": "2026-11-06",
+  "business_name": "Q/Q Barbershop",
+  "expanded_name": "Quality/Quantity Barbershop",
+  "booking_url": "https://getsquire.com/booking/book/q-q-barbershop-north-lamar-austin?ig_ix=true&owner=shop",
+  "instagram_url": "https://www.instagram.com/qq.northlamar/",
+  "address": {
+    "street": "5501 North Lamar Blvd",
+    "suite": "Suite A113",
+    "city": "Austin",
+    "state": "TX",
+    "zip": "78751"
+  },
+  "phone": "512-215-9760",
+  "hours": {
+    "Monday": "10 AM–6 PM",
+    "Tuesday": "10 AM–6 PM",
+    "Wednesday": "10 AM–6 PM",
+    "Thursday": "10 AM–6 PM",
+    "Friday": "10 AM–6 PM",
+    "Saturday": "9 AM–6 PM",
+    "Sunday": "10 AM–3 PM"
+  },
+  "barbers": [
+    {
+      "name": "Jose Martinez",
+      "slug": "jose-martinez",
+      "booking_url": "https://getsquire.com/booking/book/q-q-barbershop-north-lamar-austin/barber/jose-martinez-9/services",
+      "instagram_url": "https://www.instagram.com/elbarberpepe/",
+      "instagram_handle": "@elbarberpepe",
+      "image": "images/jose-martinez.jpg",
+      "image_original_url": "https://static.wixstatic.com/media/6b8089_e19cfd64dc624ec285aeabd9b8f3a457~mv2.jpg",
+      "image_site_crop_url": "https://static.wixstatic.com/media/6b8089_e19cfd64dc624ec285aeabd9b8f3a457~mv2.jpg/v1/fill/w_220,h_350,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/AfterlightImage_JPG.jpg",
+      "source_page": "https://www.qqbarbershoplamar.com"
+    },
+    {
+      "name": "Victor Ramirez",
+      "slug": "victor-ramirez",
+      "booking_url": "https://getsquire.com/booking/book/q-q-barbershop-north-lamar-austin/barber/victor-ramirez-1/services",
+      "instagram_url": "https://www.instagram.com/cocho_thebarber/",
+      "instagram_handle": "@cocho_thebarber",
+      "image": "images/victor-ramirez.jpg",
+      "image_original_url": "https://static.wixstatic.com/media/6b8089_09804680c80f4c3da6ff1d95b434be44~mv2.jpg",
+      "image_site_crop_url": "https://static.wixstatic.com/media/6b8089_09804680c80f4c3da6ff1d95b434be44~mv2.jpg/v1/crop/x_238,y_189,w_1092,h_1740/fill/w_220,h_350,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/3EAE0BCB-59B6-47D1-A144-9423ABAA577C_JPG.jpg",
+      "source_page": "https://www.qqbarbershoplamar.com"
+    },
+    {
+      "name": "Brandon Thomas",
+      "slug": "brandon-thomas",
+      "booking_url": "https://getsquire.com/booking/book/q-q-barbershop-north-lamar-austin/barber/brandon-thomas-3/services",
+      "instagram_url": "https://www.instagram.com/solofadez/",
+      "instagram_handle": "@solofadez",
+      "image": "images/brandon-thomas.jpg",
+      "image_original_url": "https://static.wixstatic.com/media/6b8089_6933834ecebe415092c596deadeb58a4~mv2.jpg",
+      "image_site_crop_url": "https://static.wixstatic.com/media/6b8089_6933834ecebe415092c596deadeb58a4~mv2.jpg/v1/fill/w_220,h_350,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/DSC04355_JPG.jpg",
+      "source_page": "https://www.qqbarbershoplamar.com"
+    },
+    {
+      "name": "Manuel Osuna",
+      "slug": "manuel-osuna",
+      "booking_url": "https://getsquire.com/booking/book/q-q-barbershop-north-lamar-austin/barber/manuel-osuna-1/services",
+      "instagram_url": "https://www.instagram.com/qualityoverquantitycuts__/?hl=en",
+      "instagram_handle": "@qualityoverquantitycuts__",
+      "image": "images/manuel-osuna.jpg",
+      "image_original_url": "https://static.wixstatic.com/media/6b8089_0f61c33b926649668de0a4eae68fbadb~mv2.jpg",
+      "image_site_crop_url": "https://static.wixstatic.com/media/6b8089_0f61c33b926649668de0a4eae68fbadb~mv2.jpg/v1/crop/x_86,y_226,w_1305,h_2078/fill/w_220,h_350,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/DSC09769_JPG.jpg",
+      "source_page": "https://www.qqbarbershoplamar.com"
+    },
+    {
+      "name": "Edwin Martinez",
+      "slug": "edwin-martinez",
+      "booking_url": "https://getsquire.com/booking/book/q-q-barbershop-north-lamar-austin/barber/edwin-martinez-6/services",
+      "instagram_url": "https://www.instagram.com/3dwinblendz/",
+      "instagram_handle": "@3dwinblendz",
+      "image": "images/edwin-martinez.jpg",
+      "image_original_url": "https://static.wixstatic.com/media/6b8089_1f9eedc3214d45b8b4d841619f490bde~mv2.jpg",
+      "image_site_crop_url": "https://static.wixstatic.com/media/6b8089_1f9eedc3214d45b8b4d841619f490bde~mv2.jpg/v1/crop/x_0,y_152,w_709,h_1128/fill/w_220,h_350,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/IMG_0058_JPG.jpg",
+      "source_page": "https://www.qqbarbershoplamar.com"
+    },
+    {
+      "name": "Francisco Chavez",
+      "slug": "francisco-chavez",
+      "booking_url": "https://getsquire.com/booking/book/q-q-barbershop-north-lamar-austin/barber/francisco-chavez/services",
+      "instagram_url": "https://www.instagram.com/f1_fades/",
+      "instagram_handle": "@f1_fades",
+      "image": "images/francisco-chavez.jpg",
+      "image_original_url": "https://static.wixstatic.com/media/6b8089_3575e7f7c37b4fc6ba31f1822cde4561~mv2.jpg",
+      "image_site_crop_url": "https://static.wixstatic.com/media/6b8089_3575e7f7c37b4fc6ba31f1822cde4561~mv2.jpg/v1/crop/x_71,y_92,w_285,h_453/fill/w_220,h_350,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/IMG_2312_JPG.jpg",
+      "source_page": "https://www.qqbarbershoplamar.com"
+    },
+    {
+      "name": "Ana Gonzalez",
+      "slug": "ana-gonzalez",
+      "booking_url": "https://getsquire.com/booking/book/q-q-barbershop-north-lamar-austin/barber/ana-gonzalez-2/services",
+      "instagram_url": "https://www.instagram.com/analabarbera/",
+      "instagram_handle": "@analabarbera",
+      "image": "images/ana-gonzalez.jpg",
+      "image_original_url": "https://static.wixstatic.com/media/6b8089_342c6d5f4b7d4e28a364aa7fc8e23c50~mv2.jpg",
+      "image_site_crop_url": "https://static.wixstatic.com/media/6b8089_342c6d5f4b7d4e28a364aa7fc8e23c50~mv2.jpg/v1/fill/w_220,h_350,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/DSC09918_JPG.jpg",
+      "source_page": "https://www.qqbarbershoplamar.com"
+    },
+    {
+      "name": "D’Angelo Ochoa",
+      "slug": "d-angelo-ochoa",
+      "booking_url": "https://getsquire.com/booking/book/q-q-barbershop-north-lamar-austin/barber/dangelo-ochoa-1/services",
+      "instagram_url": "https://www.instagram.com/24fadez/",
+      "instagram_handle": "@24fadez",
+      "image": "images/d-angelo-ochoa.jpg",
+      "image_original_url": "https://static.wixstatic.com/media/6b8089_9141dfa0b47c459cbb2f97007ddb60a9~mv2.jpg",
+      "image_site_crop_url": "https://static.wixstatic.com/media/6b8089_9141dfa0b47c459cbb2f97007ddb60a9~mv2.jpg/v1/fill/w_220,h_350,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/DSC09806_JPG.jpg",
+      "source_page": "https://www.qqbarbershoplamar.com"
+    },
+    {
+      "name": "Marco Ortega",
+      "slug": "marco-ortega",
+      "booking_url": "https://getsquire.com/booking/book/q-q-barbershop-north-lamar-austin/barber/marco-ortega/services",
+      "instagram_url": "https://www.instagram.com/tegablendzz/",
+      "instagram_handle": "@tegablendzz",
+      "image": "images/marco-ortega.jpg",
+      "image_original_url": "https://static.wixstatic.com/media/6b8089_764aa09304b3495f96d2192307199fae~mv2.jpg",
+      "image_site_crop_url": "https://static.wixstatic.com/media/6b8089_764aa09304b3495f96d2192307199fae~mv2.jpg/v1/fill/w_220,h_350,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/DSC09124_JPG.jpg",
+      "source_page": "https://www.qqbarbershoplamar.com"
+    },
+    {
+      "name": "Enrique Mondragon",
+      "slug": "enrique-mondragon",
+      "booking_url": "https://getsquire.com/booking/book/q-q-barbershop-north-lamar-austin/barber/enrique-mondragon-1/services",
+      "instagram_url": "https://www.instagram.com/Passion4perfection__/",
+      "instagram_handle": "@Passion4perfection__",
+      "image": "images/enrique-mondragon.jpg",
+      "image_original_url": "https://static.wixstatic.com/media/6b8089_e45e3acf5d2b41d09e5b3628068ebcac~mv2.jpg",
+      "image_site_crop_url": "https://static.wixstatic.com/media/6b8089_e45e3acf5d2b41d09e5b3628068ebcac~mv2.jpg/v1/crop/x_51,y_0,w_803,h_1280/fill/w_220,h_350,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/DSC09949_JPG.jpg",
+      "source_page": "https://www.qqbarbershoplamar.com"
+    },
+    {
+      "name": "Daniel Ramirez",
+      "slug": "daniel-ramirez",
+      "booking_url": "https://getsquire.com/booking/book/q-q-barbershop-north-lamar-austin/barber/daniel-ramirez-7/services",
+      "instagram_url": "https://www.instagram.com/danielcutit/?hl=en",
+      "instagram_handle": "@danielcutit",
+      "image": "images/daniel-ramirez.jpg",
+      "image_original_url": "https://static.wixstatic.com/media/6b8089_2f5556b289704163b4efaa8cd53c4c76~mv2.jpg",
+      "image_site_crop_url": "https://static.wixstatic.com/media/6b8089_2f5556b289704163b4efaa8cd53c4c76~mv2.jpg/v1/crop/x_82,y_174,w_696,h_1106/fill/w_220,h_350,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/DSC05411_JPG.jpg",
+      "source_page": "https://www.qqbarbershoplamar.com"
+    }
+  ],
+  "services": [
+    "Haircuts",
+    "Beard Trims",
+    "Buzz Cuts",
+    "Kids Haircuts",
+    "Hot Towel Shave"
+  ],
+  "services_source": "https://www.qqbarbershoplamar.com/about-3",
+  "walkins": {
+    "haircut": 40,
+    "haircut_and_beard": 50,
+    "currency": "USD",
+    "policy": "Walk-in prices only. First come, first served. An appointment is not guaranteed.",
+    "source": "https://www.qqbarbershoplamar.com/general-8-1"
+  },
+  "assets": [
+    {
+      "file": "jose-martinez.jpg",
+      "url": "https://static.wixstatic.com/media/6b8089_e19cfd64dc624ec285aeabd9b8f3a457~mv2.jpg",
+      "purpose": "barber portrait of Jose Martinez"
+    },
+    {
+      "file": "victor-ramirez.jpg",
+      "url": "https://static.wixstatic.com/media/6b8089_09804680c80f4c3da6ff1d95b434be44~mv2.jpg",
+      "purpose": "barber portrait of Victor Ramirez"
+    },
+    {
+      "file": "brandon-thomas.jpg",
+      "url": "https://static.wixstatic.com/media/6b8089_6933834ecebe415092c596deadeb58a4~mv2.jpg",
+      "purpose": "barber portrait of Brandon Thomas"
+    },
+    {
+      "file": "manuel-osuna.jpg",
+      "url": "https://static.wixstatic.com/media/6b8089_0f61c33b926649668de0a4eae68fbadb~mv2.jpg",
+      "purpose": "barber portrait of Manuel Osuna"
+    },
+    {
+      "file": "edwin-martinez.jpg",
+      "url": "https://static.wixstatic.com/media/6b8089_1f9eedc3214d45b8b4d841619f490bde~mv2.jpg",
+      "purpose": "barber portrait of Edwin Martinez"
+    },
+    {
+      "file": "francisco-chavez.jpg",
+      "url": "https://static.wixstatic.com/media/6b8089_3575e7f7c37b4fc6ba31f1822cde4561~mv2.jpg",
+      "purpose": "barber portrait of Francisco Chavez"
+    },
+    {
+      "file": "ana-gonzalez.jpg",
+      "url": "https://static.wixstatic.com/media/6b8089_342c6d5f4b7d4e28a364aa7fc8e23c50~mv2.jpg",
+      "purpose": "barber portrait of Ana Gonzalez"
+    },
+    {
+      "file": "d-angelo-ochoa.jpg",
+      "url": "https://static.wixstatic.com/media/6b8089_9141dfa0b47c459cbb2f97007ddb60a9~mv2.jpg",
+      "purpose": "barber portrait of D’Angelo Ochoa"
+    },
+    {
+      "file": "marco-ortega.jpg",
+      "url": "https://static.wixstatic.com/media/6b8089_764aa09304b3495f96d2192307199fae~mv2.jpg",
+      "purpose": "barber portrait of Marco Ortega"
+    },
+    {
+      "file": "enrique-mondragon.jpg",
+      "url": "https://static.wixstatic.com/media/6b8089_e45e3acf5d2b41d09e5b3628068ebcac~mv2.jpg",
+      "purpose": "barber portrait of Enrique Mondragon"
+    },
+    {
+      "file": "daniel-ramirez.jpg",
+      "url": "https://static.wixstatic.com/media/6b8089_2f5556b289704163b4efaa8cd53c4c76~mv2.jpg",
+      "purpose": "barber portrait of Daniel Ramirez"
+    },
+    {
+      "file": "original-logo.jpeg",
+      "url": "https://static.wixstatic.com/media/6b8089_89db28e91b174bfa98dece3c9b72320c~mv2.jpeg",
+      "purpose": "original shop logo"
+    },
+    {
+      "file": "shop-interior.jpg",
+      "url": "https://static.wixstatic.com/media/6b8089_7aa35df15ec54a96a52687360b311792~mv2.jpg",
+      "purpose": "homepage hero"
+    },
+    {
+      "file": "walkins.jpg",
+      "url": "https://static.wixstatic.com/media/6b8089_78f77996dc6f48438f846a6cc01e6e3a~mv2.jpg",
+      "purpose": "walkins page photo"
+    },
+    {
+      "file": "parking.jpg",
+      "url": "https://static.wixstatic.com/media/6b8089_aff1ab8cd99e433cb37173215ad5eb0b~mv2.jpg",
+      "purpose": "parking page photo"
+    }
+  ],
+  "about_summary": "Founded by two friends who met at barber school. The first location was in Pflugerville, Texas; later expanded to North Lamar, Austin. Focus on craftsmanship, personalized care, and client relationships.",
+  "about_source": "https://www.qqbarbershoplamar.com/about-1",
+  "careers_url": "https://docs.google.com/forms/d/e/1FAIpQLSeXAGV94WE7wU1eI7zB30ImYvb65-zEr-3ue0MqKyb_OEHVBA/viewform?pli=1&pli=1",
+  "notes": [
+    "No individual barber bios on source home page. Do not invent.",
+    "Services page has no prices. Walk-in page lists prices specific to walk-ins only.",
+    "Parking page only has coming-soon placeholder image, no parking instructions.",
+    "Source page shows D'ANGELO OCHOA; normalized typography to D’Angelo Ochoa."
+  ],
+  "font_sources": [
+    {
+      "file": "fonts/bricolage-grotesque-latin-variable.woff2",
+      "url": "https://fonts.gstatic.com/s/bricolagegrotesque/v9/3y9K6as8bTXq_nANBjzKo3IeZx8z6up5BeSl9D4dj_x9PpZBMlGIInHWVyNJ.woff2"
+    },
+    {
+      "file": "fonts/dm-sans-latin-variable.woff2",
+      "url": "https://fonts.gstatic.com/s/dmsans/v17/rP2Hp2ywxg089UriCZOIHTWEBlw.woff2"
+    }
+  ],
+  "asset_processing": "Original photos preserved under research/originals. Web copies EXIF-transposed, resized to max 800px portraits and 1600px interiors, saved JPEG quality 85 and WebP quality 84; no identity edits."
+}
